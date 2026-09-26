@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11822.322 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cos1-portfolio", "cos1-portfolio.vcxproj", "{F1BC6E9E-C69A-767D-CFCF-0C3A7FFE74C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1BC6E9E-C69A-767D-CFCF-0C3A7FFE74C7}.Debug|x64.ActiveCfg = Debug|x64
+		{F1BC6E9E-C69A-767D-CFCF-0C3A7FFE74C7}.Debug|x64.Build.0 = Debug|x64
+		{F1BC6E9E-C69A-767D-CFCF-0C3A7FFE74C7}.Debug|x86.ActiveCfg = Debug|Win32
+		{F1BC6E9E-C69A-767D-CFCF-0C3A7FFE74C7}.Debug|x86.Build.0 = Debug|Win32
+		{F1BC6E9E-C69A-767D-CFCF-0C3A7FFE74C7}.Release|x64.ActiveCfg = Release|x64
+		{F1BC6E9E-C69A-767D-CFCF-0C3A7FFE74C7}.Release|x64.Build.0 = Release|x64
+		{F1BC6E9E-C69A-767D-CFCF-0C3A7FFE74C7}.Release|x86.ActiveCfg = Release|Win32
+		{F1BC6E9E-C69A-767D-CFCF-0C3A7FFE74C7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BC4C7C8-F1DF-4AB4-B2DF-1C8DCDD58625}
+	EndGlobalSection
+EndGlobal

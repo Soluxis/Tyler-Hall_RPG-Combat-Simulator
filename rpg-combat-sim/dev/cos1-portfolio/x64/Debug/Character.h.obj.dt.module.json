@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "cos1-portfolio\\x64\\Debug\\Character.obj",
+            "outputs": [
+                "cos1-portfolio\\x64\\Debug\\Character.h.obj.dt.module.json",
+                "cos1-portfolio\\x64\\Debug\\Character.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
